@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__guillermo__168337",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.27653205033398137,
+            "AUC": 0.9816365968506859,
+            "Accuracy": 0.9258,
+            "F1": 0.9258
+        },
+        "val_averages": {
+            "Log Loss": 0.5582109290782242,
+            "AUC": 0.7527946304691637,
+            "Accuracy": 0.7335,
+            "F1": 0.7334999999999998
+        },
+        "test_averages": {
+            "Log Loss": 0.560971738272452,
+            "AUC": 0.7513510177247403,
+            "Accuracy": 0.7259,
+            "F1": 0.7259
+        },
+        "average_train_time": 0.0005914213999858476
+    }
+}

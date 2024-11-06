@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__nomao__9977",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.16523943859782425,
+            "AUC": 0.9806552357726149,
+            "Accuracy": 0.933,
+            "F1": 0.933
+        },
+        "val_averages": {
+            "Log Loss": 0.22755421842934767,
+            "AUC": 0.963062495407945,
+            "Accuracy": 0.9110000000000001,
+            "F1": 0.9110000000000001
+        },
+        "test_averages": {
+            "Log Loss": 0.22770750681867646,
+            "AUC": 0.9631945266881011,
+            "Accuracy": 0.9109,
+            "F1": 0.9109
+        },
+        "average_train_time": 0.0013960067999960301
+    }
+}

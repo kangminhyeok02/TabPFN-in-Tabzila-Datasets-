@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__artificial-characters__14964",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 2.084264699901513,
+            "AUC": 0.8059814670991301,
+            "Accuracy": 0.3073,
+            "F1": 0.2445899972811792
+        },
+        "val_averages": {
+            "Log Loss": 2.099765942165755,
+            "AUC": 0.7852400256770486,
+            "Accuracy": 0.27220000000000005,
+            "F1": 0.2201505123274361
+        },
+        "test_averages": {
+            "Log Loss": 2.099100240658049,
+            "AUC": 0.785828690046931,
+            "Accuracy": 0.27249999999999996,
+            "F1": 0.2205285456945405
+        },
+        "average_train_time": 1.0176710460000096
+    }
+}

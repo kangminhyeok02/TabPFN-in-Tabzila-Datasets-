@@ -1,0 +1,23 @@
+{
+    "dataset_name": "openml__monks-problems-2__146065",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.0010067023720264428,
+            "AUC": 1.0,
+            "Accuracy": 1.0,
+            "F1": 1.0
+        },
+        "val_averages": {
+            "Log Loss": 0.008986600378003097,
+            "AUC": 1.0,
+            "Accuracy": 1.0,
+            "F1": 1.0
+        },
+        "test_averages": {
+            "Log Loss": 0.009200778701168892,
+            "AUC": 1.0,
+            "Accuracy": 1.0,
+            "F1": 1.0
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__GesturePhaseSegmentationProcessed__14969",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 1.0787457262019697,
+            "AUC": 0.8774623681662035,
+            "Accuracy": 0.6278,
+            "F1": 0.5888202029005181
+        },
+        "val_averages": {
+            "Log Loss": 1.2407142528565953,
+            "AUC": 0.7749251763543127,
+            "Accuracy": 0.5078484878316905,
+            "F1": 0.46175469347750236
+        },
+        "test_averages": {
+            "Log Loss": 1.2395370796798233,
+            "AUC": 0.7755264769147803,
+            "Accuracy": 0.5117987275882012,
+            "F1": 0.46678099001306306
+        },
+        "average_train_time": 1.299857702300028
+    }
+}

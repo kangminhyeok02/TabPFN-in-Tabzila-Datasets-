@@ -1,0 +1,23 @@
+{
+    "dataset_name": "openml__credit-g__31",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.3319881527890175,
+            "AUC": 0.9526116071428572,
+            "Accuracy": 0.87425,
+            "F1": 0.87425
+        },
+        "val_averages": {
+            "Log Loss": 0.5180745807367636,
+            "AUC": 0.7636666666666667,
+            "Accuracy": 0.7280000000000001,
+            "F1": 0.728
+        },
+        "test_averages": {
+            "Log Loss": 0.5152852822140832,
+            "AUC": 0.7699999999999999,
+            "Accuracy": 0.728,
+            "F1": 0.728
+        }
+    }
+}

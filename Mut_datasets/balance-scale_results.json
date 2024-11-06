@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__balance-scale__11",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.006379862379517899,
+            "AUC": 1.0,
+            "Accuracy": 1.0,
+            "F1": 1.0
+        },
+        "val_averages": {
+            "Log Loss": 0.03596321374824242,
+            "AUC": 0.999425287356322,
+            "Accuracy": 0.987147977470558,
+            "F1": 0.987977449042814
+        },
+        "test_averages": {
+            "Log Loss": 0.03388276623226251,
+            "AUC": 0.9993062397372743,
+            "Accuracy": 0.9887864823348694,
+            "F1": 0.9891737387620241
+        },
+        "average_train_time": 0.000369517999990876
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__jungle_chess_2pcs_raw_endgame_complete__167119",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.2617303527281662,
+            "AUC": 0.9997825097937539,
+            "Accuracy": 0.9894999999999999,
+            "F1": 0.9894837315790795
+        },
+        "val_averages": {
+            "Log Loss": 0.6125930857293964,
+            "AUC": 0.8766816387554304,
+            "Accuracy": 0.7715000000000001,
+            "F1": 0.7608523268380172
+        },
+        "test_averages": {
+            "Log Loss": 0.6134419956552644,
+            "AUC": 0.8749673512442158,
+            "Accuracy": 0.768,
+            "F1": 0.7574240534703403
+        },
+        "average_train_time": 5.017672050199996
+    }
+}

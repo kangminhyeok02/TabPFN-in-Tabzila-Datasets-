@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__elevators__3711",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.4238108224474453,
+            "AUC": 0.8517193344509065,
+            "Accuracy": 0.8105,
+            "F1": 0.8105
+        },
+        "val_averages": {
+            "Log Loss": 0.4878205913194222,
+            "AUC": 0.8041584489670541,
+            "Accuracy": 0.7827999999999999,
+            "F1": 0.7828
+        },
+        "test_averages": {
+            "Log Loss": 0.48715958165542794,
+            "AUC": 0.8036412346293528,
+            "Accuracy": 0.784,
+            "F1": 0.784
+        },
+        "average_train_time": 0.0004656728999862025
+    }
+}

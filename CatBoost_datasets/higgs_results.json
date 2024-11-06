@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__higgs__146606",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.3472709982517467,
+            "AUC": 0.9985287971580588,
+            "Accuracy": 0.9779,
+            "F1": 0.9779
+        },
+        "val_averages": {
+            "Log Loss": 0.6102935777928538,
+            "AUC": 0.7291273337528844,
+            "Accuracy": 0.6641,
+            "F1": 0.6641
+        },
+        "test_averages": {
+            "Log Loss": 0.6096466462540914,
+            "AUC": 0.7297296316018784,
+            "Accuracy": 0.667,
+            "F1": 0.667
+        },
+        "average_train_time": 1.3079681303999906
+    }
+}

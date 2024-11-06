@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__albert__189356",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.6145196334719333,
+            "AUC": 0.7352207635322164,
+            "Accuracy": 0.6646,
+            "F1": 0.6646
+        },
+        "val_averages": {
+            "Log Loss": 0.6613061028161821,
+            "AUC": 0.6487746069097444,
+            "Accuracy": 0.6152,
+            "F1": 0.6152
+        },
+        "test_averages": {
+            "Log Loss": 0.660765001979903,
+            "AUC": 0.6489699014322932,
+            "Accuracy": 0.6184000000000001,
+            "F1": 0.6184000000000001
+        },
+        "average_train_time": 0.001421546399978979
+    }
+}

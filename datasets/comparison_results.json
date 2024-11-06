@@ -1,0 +1,98 @@
+{
+    "openml__colic__27": {
+        "test_averages": {
+            "original": 0.8557057057057056,
+            "RF": 0.8529279279279279
+        }
+    },
+    "openml__kc1__3917": {
+        "test_averages": {
+            "original": 0.862013089596028,
+            "RF": 0.8572692394493343
+        }
+    },
+    "openml__Australian__146818": {
+        "test_averages": {
+            "original": 0.8681159420289857,
+            "RF": 0.8695652173913044
+        }
+    },
+    "openml__profb__3561": {
+        "test_averages": {
+            "original": 0.6905399473222125,
+            "RF": 0.6905399473222125
+        }
+    },
+    "openml__lymph__10": {
+        "test_averages": {
+            "original": 0.8100000000000002,
+            "RF": 0.7566666666666666
+        }
+    },
+    "openml__heart-h__50": {
+        "test_averages": {
+            "original": 0.836896551724138,
+            "RF": 0.8165517241379311
+        }
+    },
+    "openml__credit-approval__29": {
+        "test_averages": {
+            "original": 0.8840579710144928,
+            "RF": 0.872463768115942
+        }
+    },
+    "openml__monks-problems-2__146065": {
+        "test_averages": {
+            "original": 1.0,
+            "RF": 1.0
+        }
+    },
+    "openml__balance-scale__11": {
+        "test_averages": {
+            "original": 0.9887864823348694,
+            "RF": 0.9887864823348694
+        }
+    },
+    "openml__socmob__3797": {
+        "test_averages": {
+            "original": 0.9334257871064467,
+            "RF": 0.9334257871064467
+        }
+    },
+    "openml__mfeat-fourier__14": {
+        "test_averages": {
+            "original": 0.8275,
+            "RF": 0.8634999999999999
+        }
+    },
+    "openml__qsar-biodeg__9957": {
+        "test_averages": {
+            "original": 0.8853279424977538,
+            "RF": 0.824618149146451
+        }
+    },
+    "openml__colic__25": {
+        "test_averages": {
+            "original": 0.8231231231231231,
+            "RF": 0.863963963963964
+        }
+    },
+    "openml__credit-g__31": {
+        "test_averages": {
+            "original": 0.7290000000000001,
+            "RF": 0.7180000000000001
+        }
+    },
+    "openml__vehicle__53": {
+        "test_averages": {
+            "original": 0.8474929971988795,
+            "RF": 0.7634313725490196
+        }
+    },
+    "openml__mfeat-zernike__22": {
+        "test_averages": {
+            "original": 0.8275,
+            "RF": 0.7140000000000001
+        }
+    }
+}

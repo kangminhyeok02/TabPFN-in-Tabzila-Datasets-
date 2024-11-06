@@ -1,0 +1,194 @@
+{
+    "openml__jasmine__168911": {
+        "train_averages": {
+            "original": 3.688054211300016,
+            "RF": 0.0009205172000292805
+        }
+    },
+    "openml__mfeat-fourier__14": {
+        "train_averages": {
+            "original": 1.0557746270999928,
+            "RF": 0.0004770005000409583
+        }
+    },
+    "openml__artificial-characters__14964": {
+        "train_averages": {
+            "original": 1.0176710460000096,
+            "RF": 0.0005054959000290182
+        }
+    },
+    "openml__qsar-biodeg__9957": {
+        "train_averages": {
+            "original": 0.8748103067999864,
+            "RF": 0.00038041750001411857
+        }
+    },
+    "openml__electricity__219": {
+        "train_averages": {
+            "original": 0.7364274047000094,
+            "RF": 0.0011216764999971928
+        }
+    },
+    "openml__credit-approval__29": {
+        "train_averages": {
+            "original": 1.12362538860001,
+            "RF": 0.0006071938999866689
+        }
+    },
+    "openml__profb__3561": {
+        "train_averages": {
+            "original": 1.0773328145999925,
+            "RF": 0.0005451000000107342
+        }
+    },
+    "openml__kc1__3917": {
+        "train_averages": {
+            "original": 5.642974911900001,
+            "RF": 0.00043407120001575094
+        }
+    },
+    "openml__socmob__3797": {
+        "train_averages": {
+            "original": 1.063218184799996,
+            "RF": 0.0005734038000127839
+        }
+    },
+    "openml__nomao__9977": {
+        "train_averages": {
+            "original": 3.803485263900029,
+            "RF": 0.0013960067999960301
+        }
+    },
+    "openml__monks-problems-2__146065": {
+        "train_averages": {
+            "original": 0.7442963744999986,
+            "RF": 0.00047771470000839144
+        }
+    },
+    "openml__SpeedDating__146607": {
+        "train_averages": {
+            "original": 1.6292329018000147,
+            "RF": 0.0011082114000032562
+        }
+    },
+    "openml__balance-scale__11": {
+        "train_averages": {
+            "original": 1.062090297899988,
+            "RF": 0.000369517999990876
+        }
+    },
+    "openml__lymph__10": {
+        "train_averages": {
+            "original": 2.0484687720999775,
+            "RF": 0.0004072830000012573
+        }
+    },
+    "openml__Australian__146818": {
+        "train_averages": {
+            "original": 1.2088773981000032,
+            "RF": 0.0005712666999784233
+        }
+    },
+    "openml__jungle_chess_2pcs_raw_endgame_complete__167119": {
+        "train_averages": {
+            "original": 5.017672050199996,
+            "RF": 0.000502829900051438
+        }
+    },
+    "openml__guillermo__168337": {
+        "train_averages": {
+            "original": 7.339246893299969,
+            "RF": 0.0005914213999858476
+        }
+    },
+    "openml__splice__45": {
+        "train_averages": {
+            "original": 2.7464764632000196,
+            "RF": 0.0009114977000194812
+        }
+    },
+    "openml__colic__25": {
+        "train_averages": {
+            "original": 1.1842872240000246,
+            "RF": 0.0004634649999957219
+        }
+    },
+    "openml__albert__189356": {
+        "train_averages": {
+            "original": 1.5150654652000413,
+            "RF": 0.001421546399978979
+        }
+    },
+    "openml__Bioresponse__9910": {
+        "train_averages": {
+            "original": 2.143825357300011,
+            "RF": 0.0004940399999213696
+        }
+    },
+    "openml__phoneme__9952": {
+        "train_averages": {
+            "original": 0.6975479982000052,
+            "RF": 0.0004702620999978535
+        }
+    },
+    "openml__higgs__146606": {
+        "train_averages": {
+            "original": 1.3079681303999906,
+            "RF": 0.0004901305000203138
+        }
+    },
+    "openml__vehicle__53": {
+        "train_averages": {
+            "original": 1.204892369000015,
+            "RF": 0.00040597070001240353
+        }
+    },
+    "openml__colic__27": {
+        "train_averages": {
+            "original": 0.8747206001000108,
+            "RF": 0.0004690934000109337
+        }
+    },
+    "openml__elevators__3711": {
+        "train_averages": {
+            "original": 0.7208750778000024,
+            "RF": 0.0004656728999862025
+        }
+    },
+    "openml__GesturePhaseSegmentationProcessed__14969": {
+        "train_averages": {
+            "original": 1.299857702300028,
+            "RF": 0.00045567140000457584
+        }
+    },
+    "openml__MiniBooNE__168335": {
+        "train_averages": {
+            "original": 1.0002995746000238,
+            "RF": 0.0004996495999421314
+        }
+    },
+    "openml__cnae-9__9981": {
+        "train_averages": {
+            "original": 1.8102481281999985,
+            "RF": 0.0005035025999859499
+        }
+    },
+    "openml__credit-g__31": {
+        "train_averages": {
+            "original": 18.51051793260002,
+            "RF": 0.0006919999000047028
+        }
+    },
+    "openml__heart-h__50": {
+        "train_averages": {
+            "original": 0.8638351284999999,
+            "RF": 0.00043478610000988736
+        }
+    },
+    "openml__mfeat-zernike__22": {
+        "train_averages": {
+            "original": 1.0178463046000048,
+            "RF": 0.0004665242000100989
+        }
+    }
+}

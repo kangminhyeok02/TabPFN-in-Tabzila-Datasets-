@@ -1,0 +1,24 @@
+{
+    "dataset_name": "openml__MiniBooNE__168335",
+    "averages": {
+        "train_averages": {
+            "Log Loss": 0.20547267026205293,
+            "AUC": 0.9837377019474264,
+            "Accuracy": 0.9323,
+            "F1": 0.9323
+        },
+        "val_averages": {
+            "Log Loss": 0.2547493214328918,
+            "AUC": 0.9587778367159766,
+            "Accuracy": 0.9032000000000002,
+            "F1": 0.9032000000000002
+        },
+        "test_averages": {
+            "Log Loss": 0.2542947102998366,
+            "AUC": 0.9586209136342424,
+            "Accuracy": 0.9029,
+            "F1": 0.9029
+        },
+        "average_train_time": 1.0002995746000238
+    }
+}
